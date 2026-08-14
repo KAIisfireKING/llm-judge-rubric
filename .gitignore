@@ -1,0 +1,12 @@
+# 编辑器 / 系统
+.idea/
+.vscode/
+.obsidian/
+Thumbs.db
+desktop.ini
+*.tmp
+
+# 不纳入版本控制：上游模板与竞赛提交物
+论文/
+*.pdf
+*.zip
